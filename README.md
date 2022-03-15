@@ -20,7 +20,10 @@
   
   </p>
   
-  
+  <div style="">
+  <img src='https://github.com/krugio/paynow/blob/master/tela1.png'> 
+  <img src='https://github.com/krugio/paynow/blob/master/tela2.png'> 
+  </div>
   
   
   
