@@ -16,7 +16,9 @@
   3. Para usar voceê deverá mandar o link da sua url com a seguinte sintaxe para o seu cliente
      ex: https://wwww.seudominio.com.br/paynowcc.php?valordacompra=11.00
   
-  4. O valordacompra=(Valor que você quer cobrar este dever sem usado com ponto e não virgurla)
+  4. criar um arquivo logox.png (para o avatar)
+   
+  5. O valordacompra=(Valor que você quer cobrar. Este deve ser usado com o . e não ,)
   
   </p>
   
