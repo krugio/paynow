@@ -1,6 +1,6 @@
 # paynow
 <h1 align="center"> SISTEMA DE PAGAMENTO ONLINE VIA WHATSAPP via PAYPAL</h1>
-<h3 align="center"> Desevolvido para quem quer mandar um link de pagamento online via cartão de crédito personalizado</h3>
+<h3 align="center"> Desenvolvido para quem quer mandar um link de pagamento online via cartão de crédito personalizado</h3>
 <h5 align="center"> Após o pagamento confirmado o pagamento o cliente manda a notificação automática para o whatsapp cadastrado</h5>
 
 <p>Funciona da seguinte maneira: <br>
